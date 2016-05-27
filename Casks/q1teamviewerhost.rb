@@ -1,4 +1,4 @@
-cask 'q1TeamviewerHost' do
+cask 'q1teamviewerhost' do
   version 'idcru2jz68'
   sha256 'f41edd5097d72b5be958d04dfa09186b9693b5777230e059fac52ee79be72137'
 
