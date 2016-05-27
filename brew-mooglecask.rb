@@ -1,6 +1,6 @@
 require 'formula'
 
-class BrewCask < Formula
+class BrewMoogleCask < Formula
 	homepage 'https://github.com/moogle19/homebrew-cask/'
 	url 'https://github.com/moogle19/homebrew-cask.git'
 	def install
